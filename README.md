@@ -29,3 +29,11 @@ Mapped pin-out.
   Seg G     15 pin    7 pin
   DP        7 pin     -
 ```
+
+# install using adruino IDE
+1. Launch Arduino IDE.
+2. Load the sketch.
+3. Select `Tools > Board > Adafruit Trinket 8MHz`.
+4. Select `Tools > Programmer > USBtinyISP`.
+5. Start the bootloader [info](https://learn.adafruit.com/introducing-trinket/introduction?embeds=allow&view=all#starting-the-bootloader).
+6. Click `Upload` (arrow button).
